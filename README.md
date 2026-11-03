@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Github
-A MERN based Github replica with custom version control implemented from scratch.
-=======
 # 🚀 Apna GitHub Clone
 
 A GitHub-inspired full-stack web application built using the **MERN Stack**, featuring user authentication, repository management, issue tracking, and a custom-built version control system with AWS S3 integration.
